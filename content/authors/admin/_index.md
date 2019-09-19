@@ -14,18 +14,18 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Google Daydream
-  url: "https://vr.google.com/daydream/"
+- name: Google
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a software engineer at Google Daydream! My interests include computer graphics, geometry processing, machine learning, and simulation.
+bio: My interests primarily lie at the intersection between computer graphics, geometry processing, machine learning, and computational photography.
 
 interests:
 - Computer Graphics
 - Geometry Processing
-- Machine Learning
-- Simulation
-- Virtual/Augmented Reality
+- Geometric Deep Learning
+- Physical Simulation
+- Computational Photography
 
 education:
   courses:
@@ -61,8 +61,8 @@ email: ""
 user_groups: []
 
 ---
-I am a software engineer at Google Daydream working on exciting projects in computer graphics and VR/AR!
+I am a software engineer at Google working on mobile computational photography with the Android Camera Algorithms team!
 
-Previously, I was a graduate student at Carnegie Mellon University, advised by [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/). As a member of the [CMU Graphics Lab](graphics.cs.cmu.edu) and the [CMU Geometry Collective](geometry.cs.cmu.edu), I researched interesting problems in computer graphics and geometry processing. This culminated in my [Master's Thesis](https://www.cs.cmu.edu/calendar/fri-2019-07-19-1500/computer-science-5th-year-masters-thesis-presentation) on remeshing geometric surfaces!
+Previously, I was a graduate student at Carnegie Mellon University, advised by [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/). As a member of the [CMU Graphics Lab](http://graphics.cs.cmu.edu) and the [CMU Geometry Collective](http://geometry.cs.cmu.edu), I researched interesting problems in computer graphics and geometry processing. This culminated in my [Master's Thesis](https://www.cs.cmu.edu/calendar/fri-2019-07-19-1500/computer-science-5th-year-masters-thesis-presentation) on remeshing geometric surfaces.
 
-I also completed my undergraduate studies at Carnegie Mellon, majoring in Computer Science and minoring in Robotics. Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to [music](https://www.last.fm/user/connorzl) (long-time swiftie).
+I also completed my undergraduate studies at Carnegie Mellon, majoring in Computer Science and minoring in Robotics. Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to [music](https://www.last.fm/user/connorzl) (long-time swiftie). Also a fan of traveling, sports, and good food :)
