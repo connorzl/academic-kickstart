@@ -10,25 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Google
-  url: ""
+- name: Stanford University
+  url: "http://cs.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests primarily lie at the intersection between computer graphics, geometry processing, machine learning, and computational photography.
+bio: My interests primarily lie at the intersection between computer graphics, geometry processing, and machine learning!
 
 interests:
 - Computer Graphics
 - Geometry Processing
 - Geometric Deep Learning
-- Physical Simulation
 - Computational Photography
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Stanford University
+    year: 2020-
   - course: MSc in Computer Science
     institution: Carnegie Mellon University, advised by Keenan Crane
     year: 2018-2019
@@ -61,8 +63,10 @@ email: ""
 user_groups: []
 
 ---
-I am a software engineer at Google working on mobile computational photography with the Android Camera Algorithms team!
+I am a first-year Computer Science PhD Student at Stanford University, working with [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) and [Gordon Wetzstein](https://stanford.edu/~gordonwz/) during my initial rotations. My research lies in the intersection of computer graphics and machine learning, and I am currently working on discovering and leveraging structure from 3D shapes. 
 
-Previously, I was a graduate student at Carnegie Mellon University, advised by [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/). As a member of the [CMU Graphics Lab](http://graphics.cs.cmu.edu) and the [CMU Geometry Collective](http://geometry.cs.cmu.edu), I researched interesting problems in computer graphics and geometry processing. This culminated in my [Master's Thesis](https://www.cs.cmu.edu/calendar/fri-2019-07-19-1500/computer-science-5th-year-masters-thesis-presentation) on remeshing geometric surfaces.
+Previously, I worked at Google as a software engineer on mobile computational photography (mostly related to Portrait Mode on Pixel phones).
 
-I also completed my undergraduate studies at Carnegie Mellon, majoring in Computer Science and minoring in Robotics. Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to [music](https://www.last.fm/user/connorzl) (long-time swiftie). Also a fan of traveling, sports, and good food :)
+I was also a Computer Science undergraduate and graduate student at Carnegie Mellon University, advised by [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/). This culminated in my Master's Thesis on quad meshing. 
+
+Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to [music](https://www.last.fm/user/connorzl) (long-time swiftie). Also a fan of traveling, sports, and good food :)

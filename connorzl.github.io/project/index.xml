@@ -28,10 +28,10 @@
       
       <guid>https://connorzl.github.io/project/ml_ai/</guid>
       <description>&lt;p&gt;Class projects for 10-701 Machine Learning and 15-780 Graduate AI.
-&lt;img src=&#34;https://connorzl.github.io/img/701.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/701.png&#34; alt=&#34;&#34;&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/S0iRuXkSs0Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S0iRuXkSs0Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -44,15 +44,13 @@
       
       <guid>https://connorzl.github.io/project/comp_photo/</guid>
       <description>&lt;p&gt;Most of the pipeline here is inspired by Image and Video Based Painterly Animation [HE 04]. We also experimented with tools from GradientShop [BZCC 10], such as the long-edge detector to compute better paint stroke orientations.&lt;/p&gt;
-
 &lt;p&gt;Each painting is composed of multiple layers, increasing in level of detail:
-&lt;img src=&#34;https://connorzl.github.io/img/compphoto1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://connorzl.github.io/img/compphoto2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+&lt;img src=&#34;https://connorzl.github.io/img/compphoto1.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/compphoto2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A couple more fun examples:
-&lt;img src=&#34;https://connorzl.github.io/img/compphoto3.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://connorzl.github.io/img/compphoto4.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://connorzl.github.io/img/compphoto5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/compphoto3.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/compphoto4.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/compphoto5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -63,15 +61,13 @@
       
       <guid>https://connorzl.github.io/project/google_internship/</guid>
       <description>&lt;p&gt;Supports the following stroke editing tools:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Insertion and Replacement&lt;/li&gt;
 &lt;li&gt;Deletion&lt;/li&gt;
 &lt;li&gt;Selection and Shifting&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/google_project1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://connorzl.github.io/img/google_project2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/google_project1.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/google_project2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -82,8 +78,7 @@
       
       <guid>https://connorzl.github.io/project/independent_research/</guid>
       <description>&lt;p&gt;I presented and discussed this work at the Fall 2017 Carnegie Mellon Undergraduate Research Showcase.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/poster.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -94,10 +89,9 @@
       
       <guid>https://connorzl.github.io/project/yahoo_internship/</guid>
       <description>&lt;p&gt;Implemented various fun image processing tools for PopChat, an assistant KiK bot for younger audiences.
-&lt;img src=&#34;https://connorzl.github.io/img/yahoo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Also, I played around a bit with emotion prediction for the Emojify tool, which replaces faces with emojis. The goal was to detect facial expressions from user images, so that a matching emoji rather than a random one can be used.
-&lt;img src=&#34;https://connorzl.github.io/img/yahoo2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
