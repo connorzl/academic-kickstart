@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Stanford University
-    year: 2020-
+    year: 2020-Present
   - course: MSc in Computer Science
     institution: Carnegie Mellon University, advised by Keenan Crane
     year: 2018-2019
@@ -63,10 +63,11 @@ email: ""
 user_groups: []
 
 ---
-I am a first-year Computer Science PhD Student at Stanford University, working with [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) and [Gordon Wetzstein](https://stanford.edu/~gordonwz/) during my initial rotations. My research lies in the intersection of computer graphics and machine learning, and I am currently working on discovering and leveraging structure from 3D shapes. 
+I am a first-year Computer Science PhD Student at Stanford University, working with [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) and [Gordon Wetzstein](https://stanford.edu/~gordonwz/) during my initial rotations. My research lies in the intersection of computer graphics and machine learning, and I am currently exploring how to discover and leverage structure in neural representations of 3D data. My work is graciously supported by a Stanford Graduate Fellowship. 
 
 Previously, I worked at Google as a software engineer on mobile computational photography (mostly related to Portrait Mode on Pixel phones).
 
 I was also a Computer Science undergraduate and graduate student at Carnegie Mellon University, advised by [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/). This culminated in my Master's Thesis on quad meshing. 
 
-Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to [music](https://www.last.fm/user/connorzl) (long-time swiftie). Also a fan of traveling, sports, and good food :)
+Outside of work, I enjoy [cooking](https://www.instagram.com/the_wizard_of_zoz/?hl=en), working out, video/boardgames, and [music](https://www.last.fm/user/connorzl) (long-time swiftie and currently learning guitar). Also a fan of traveling and sports -- go Ravens!.
+
